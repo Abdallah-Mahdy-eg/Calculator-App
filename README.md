@@ -26,4 +26,4 @@ To get a local copy up and running, follow these steps:
    ```$ cd Calculator-App```
 ## Website
 
-   ```https://abdallah-mahdy-eg.github.io/Quote-App/```
+   ```https://abdallah-mahdy-eg.github.io/Calculator-App/```
